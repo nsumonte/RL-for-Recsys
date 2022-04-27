@@ -25,43 +25,44 @@
 
 [P6] Improving Daily Deals Recommendation Using Explore-Then-Exploit Strategies [[PDF]](https://homepages.dcc.ufmg.br/~rodrygo/wp-content/papercite-data/pdf/lacerda2015irj.pdf)
 
-> Anisio Lacerda , Rodrygo L. T. Santos , Adriano Veloso, Nivio Ziviani
+> Lacerda, A., Santos, R. L., Veloso, A., & Ziviani, N. (2015). Improving daily deals recommendation using explore-then-exploit strategies. Information Retrieval Journal, 18(2), 95-122.
 
 [P7]  Scalable explore-exploit collaborative filtering. [[PDF]](https://hal.inria.fr/hal-01406418)
 
-> [Frédéric Guillou](https://hal.inria.fr/search/index/q/*/authFullName_s/Fr%C3%A9d%C3%A9ric+Guillou)  [Romaric Gaudel](https://hal.inria.fr/search/index/q/*/authIdHal_s/romaric-gaudel)  [Philippe Preux](https://hal.inria.fr/search/index/q/*/authIdHal_s/preux-philippe)
+> [Guillou, F.](https://hal.inria.fr/search/index/q/*/authFullName_s/Fr%C3%A9d%C3%A9ric+Guillou), [Gaudel, R.](https://hal.inria.fr/search/index/q/*/authIdHal_s/romaric-gaudel), & [Preux, P.] (2016)(https://hal.inria.fr/search/index/q/*/authIdHal_s/preux-philippe)
+. Scalable explore-exploit collaborative filtering. In Pacific Asia Conference on Information Systems (PACIS'16).
 
 [P8] Factorization Bandits for Interactive Recommendation. [[PDF]](https://www.cs.virginia.edu/~hw5x/paper/factorUCB.pdf)
 
-> H. Wang, Q. Wu and H. Wang.
+> Wang, H., Wu, Q., & Wang, H. (2017, February). Factorization bandits for interactive recommendation. In Thirty-First AAAI Conference on Artificial Intelligence.
 
 [P9] Bandits and Recommender Systems. [[PDF]](https://hal.inria.fr/hal-01256033/file/Bandits_and_Recommender_Systems.pdf)
 
-> J. Mary, R. Gaudel and P Preux.
+> Mary, J., Gaudel, R., & Preux, P. (2015, July). Bandits and recommender systems. In International Workshop on Machine Learning, Optimization and Big Data (pp. 325-336). Springer, Cham.
 
 [P10] Adaptive, personalized diversity for visual discovery. [[PDF]](https://arxiv.org/pdf/1810.01477.pdf)
 
-> C. Teo, H. Nassif, D. Hill, S. Srinivasan, M. Goodman, V. Mohan, and S. Vishwanathan.
+> Teo, C. H., Nassif, H., Hill, D., Srinivasan, S., Goodman, M., Mohan, V., & Vishwanathan, S. V. N. (2016, September). Adaptive, personalized diversity for visual discovery. In Proceedings of the 10th ACM conference on recommender systems (pp. 35-38).
 
 [P11] Online clustering of bandits. [[PDF]](http://proceedings.mlr.press/v32/gentile14.pdf)
 
-> Gentile C., Li S., and Zappella G. 
+> Gentile, C., Li, S., & Zappella, G. (2014, June). Online clustering of bandits. In International Conference on Machine Learning (pp. 757-765). PMLR.
 
 [P12] Learning diverse rankings with multi-armed bandits. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/1390156.1390255)
 
-> F. Radlinski, R. Kleinberg, and T. Joachims.
+> Radlinski, F., Kleinberg, R., & Joachims, T. (2008, July). Learning diverse rankings with multi-armed bandits. In Proceedings of the 25th international conference on Machine learning (pp. 784-791).
 
 [P13] A Fast Bandit Algorithm for Recommendations to Users with Heterogeneous Tastes [[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/kss_aaai2013.pdf)
 
-> P. Kohli, M. Salek
+> Kohli, P., Salek, M., & Stoddard, G. (2013, June). A fast bandit algorithm for recommendation to users with heterogenous tastes. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 27, No. 1, pp. 1135-1141).
 
 [P14] Contextual combinatorial bandit and its application on diversified online recommendation. [[PDF]](http://www.chenshouyuan.com/papers/sdm14.pdf)
 
-> L. Qin, S. Chen, and X. Zhu.
+> Qin, L., Chen, S., & Zhu, X. (2014, April). Contextual combinatorial bandit and its application on diversified online recommendation. In Proceedings of the 2014 SIAM International Conference on Data Mining (pp. 461-469). Society for Industrial and Applied Mathematics.
 
 [P15] A Multiple-Play Bandit Algorithm Applied to Recommender Systems. [[PDF]](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/download/10385/10364)
 
-> Louëdec, M. Chevalier, et al. 
+> Louëdec, J., Chevalier, M., Mothe, J., Garivier, A., & Gerchinovitz, S. (2015, April). A multiple-play bandit algorithm applied to recommender systems. In The Twenty-Eighth International Flairs Conference.
 
 # Libros
 
