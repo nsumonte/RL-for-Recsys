@@ -5,7 +5,7 @@
 # Archivos
 [P1]  Session-aware Item-combination Recommendation with Transformer Network [[PDF]](https://arxiv.org/pdf/2111.08817.pdf)
 
-> [Tzu-Heng Lin](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+T), [Chen Gao](https://arxiv.org/search/cs?searchtype=author&query=Gao%2C+C)
+> [Lin, T. H.](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+T), & [Gao, C.](https://arxiv.org/search/cs?searchtype=author&query=Gao%2C+C) (2021, December). Session-aware Item-combination Recommendation with Transformer Network. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 5708-5713). IEEE.
 
 [P2]  RecSim NG: Toward Principled Uncertainty Modeling for Recommender Ecosystems [[PDF]](https://arxiv.org/pdf/2103.08057.pdf)
 
