@@ -72,8 +72,8 @@
 # Videos
 [V1] Reinforcement Learning for Recommender Systems: A Case Study on Youtube. [[Link Youtube]](https://www.youtube.com/watch?v=HEqQ2_1XRTs)
 
-> Minmin Chen
+> Minmin Chen, 2019
 
 [V2] Curso completo REINFORCEMENT LEARNING AND OPTIMAL CONTROL [[LINK]](http://web.mit.edu/dimitrib/www/RLbook.html)
 
-> Dimitri P. Bertsekas
+> Dimitri P. Bertsekas, 2022
