@@ -67,8 +67,7 @@
 
 [L1]  Deep Learning on Graphs [[PDF]](https://web.njit.edu/~ym329/dlg_book/)
 
-> [Yiqi Wang](https://www.cse.msu.edu/~wangy206/), [Wei Jin](http://www.cse.msu.edu/~jinwei2/), [Yao Ma](http://cse.msu.edu/~mayao4/) y [Jiliang Tang](https://www.cse.msu.edu/~tangjili/)
-
+> [Wang, Y.](https://www.cse.msu.edu/~wangy206/), [Jin, W.](http://www.cse.msu.edu/~jinwei2/), [Ma, Y.](http://cse.msu.edu/~mayao4/), & [Tang, J](https://www.cse.msu.edu/~tangjili/). (2021). Deep learning on graphs. Cambridge university press. 
 
 # Videos
 [V1] Reinforcement Learning for Recommender Systems: A Case Study on Youtube. [[Link Youtube]](https://www.youtube.com/watch?v=HEqQ2_1XRTs)
