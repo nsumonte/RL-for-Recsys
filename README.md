@@ -63,17 +63,18 @@
 
 > Louëdec, J., Chevalier, M., Mothe, J., Garivier, A., & Gerchinovitz, S. (2015, April). A multiple-play bandit algorithm applied to recommender systems. In The Twenty-Eighth International Flairs Conference.
 
+[P16] Top-k off-policy correction for a REINFORCE recommender system. [[PDF]](http://alexbeutel.com/papers/wsdm2019_reinforce_recs.pdf) [[Link Video Youtube]](https://www.youtube.com/watch?v=HEqQ2_1XRTs)
+
+> Chen, M., Beutel, A., Covington, P., Jain, S., Belletti, F., & Chi, E. H. (2019, January). Top-k off-policy correction for a REINFORCE recommender system. In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (pp. 456-464).
+
 # Libros
 
 [L1]  Deep Learning on Graphs [[PDF]](https://web.njit.edu/~ym329/dlg_book/)
 
 > [Wang, Y.](https://www.cse.msu.edu/~wangy206/), [Jin, W.](http://www.cse.msu.edu/~jinwei2/), [Ma, Y.](http://cse.msu.edu/~mayao4/), & [Tang, J](https://www.cse.msu.edu/~tangjili/). (2021). Deep learning on graphs. Cambridge university press. 
 
-# Videos
-[V1] Reinforcement Learning for Recommender Systems: A Case Study on Youtube. [[Link Youtube]](https://www.youtube.com/watch?v=HEqQ2_1XRTs)
+# Cursos
 
-> Minmin Chen, 2019
-
-[V2] Curso completo REINFORCEMENT LEARNING AND OPTIMAL CONTROL [[LINK]](http://web.mit.edu/dimitrib/www/RLbook.html)
+[C1] Curso completo REINFORCEMENT LEARNING AND OPTIMAL CONTROL [[LINK]](http://web.mit.edu/dimitrib/www/RLbook.html)
 
 > Dimitri P. Bertsekas, 2022
