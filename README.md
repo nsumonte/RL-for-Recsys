@@ -29,8 +29,7 @@
 
 [P7]  Scalable explore-exploit collaborative filtering. [[PDF]](https://hal.inria.fr/hal-01406418)
 
-> [Guillou, F.](https://hal.inria.fr/search/index/q/*/authFullName_s/Fr%C3%A9d%C3%A9ric+Guillou), [Gaudel, R.](https://hal.inria.fr/search/index/q/*/authIdHal_s/romaric-gaudel), & [Preux, P.] (2016)(https://hal.inria.fr/search/index/q/*/authIdHal_s/preux-philippe)
-. Scalable explore-exploit collaborative filtering. In Pacific Asia Conference on Information Systems (PACIS'16).
+> [Guillou, F.](https://hal.inria.fr/search/index/q/*/authFullName_s/Fr%C3%A9d%C3%A9ric+Guillou), [Gaudel, R.](https://hal.inria.fr/search/index/q/*/authIdHal_s/romaric-gaudel), & [Preux, P.](https://hal.inria.fr/search/index/q/*/authIdHal_s/preux-philippe) (2016). Scalable explore-exploit collaborative filtering. In Pacific Asia Conference on Information Systems (PACIS'16).
 
 [P8] Factorization Bandits for Interactive Recommendation. [[PDF]](https://www.cs.virginia.edu/~hw5x/paper/factorUCB.pdf)
 
