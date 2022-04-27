@@ -17,11 +17,11 @@
 
 [P4] Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation [[PDF]](https://dl.acm.org/doi/10.1145/3460231.3474256)
 
-> Yaxiong Wu, Iadh Ounis
+> Wu, Y., Macdonald, C., & Ounis, I. (2021, September). Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation. In Fifteenth ACM Conference on Recommender Systems (pp. 241-251).
 
 [P5] Reinforcement Learning over Sentiment-Augmented Knowledge Graphs towards Accurate and Explainable Recommendation WSDM'22 [[PDF]](https://dl.acm.org/doi/abs/10.1145/3488560.3498515)
 
-> Sang-Wook Kim, Sumin Park, Sung-Jun Park, Dong Kyu Chae.
+> Park, S. J., Chae, D. K., Bae, H. K., Park, S., & Kim, S. W. (2022, February). Reinforcement Learning over Sentiment-Augmented Knowledge Graphs towards Accurate and Explainable Recommendation. In Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM'22) (pp. 784-793).
 
 [P6] Improving Daily Deals Recommendation Using Explore-Then-Exploit Strategies [[PDF]](https://homepages.dcc.ufmg.br/~rodrygo/wp-content/papercite-data/pdf/lacerda2015irj.pdf)
 
