@@ -1,8 +1,8 @@
-# Lista de Lecturas Aprendizaje Reforzado para sistemas de recomendación.
+# Recursos de Aprendizaje reforzado para sistemas de recomendación.
 
-- Lista de Papers relacionado con el aprendizaje reforzado y los sistemas de recomendación ( Algunos incluyen el link para el PDF, código y dataset).
+- Lista de papers, codigo, datasets y otros recursos relacionado con el aprendizaje reforzado y los sistemas de recomendación (Algunos incluyen el link para el PDF, código y dataset).
 
-# Articulos
+# Artículos
 [P1]  Session-aware Item-combination Recommendation with Transformer Network [[PDF]](https://arxiv.org/pdf/2111.08817.pdf)
 
 > [Lin, T. H.](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+T), & [Gao, C.](https://arxiv.org/search/cs?searchtype=author&query=Gao%2C+C) (2021, December). Session-aware Item-combination Recommendation with Transformer Network. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 5708-5713). IEEE.
@@ -69,6 +69,9 @@
 
 # Datasets
 
+ContentWise impressions: an industrial dataset with impressions included [[dataset repo]](https://github.com/ContentWise/contentwise-impressions)
+
+>Pérez Maurera, F. B., Ferrari Dacrema, M., Saule, L., Scriminaci, M., & Cremonesi, P. (2020, October). ContentWise impressions: an industrial dataset with impressions included. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (pp. 3093-3100).
 
 # Ambientes de Simulación
 
