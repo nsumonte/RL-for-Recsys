@@ -2,7 +2,7 @@
 
 - Lista de Papers relacionado con el aprendizaje reforzado y los sistemas de recomendación ( Algunos incluyen el link para el PDF, código y dataset).
 
-# Archivos
+# Articulos
 [P1]  Session-aware Item-combination Recommendation with Transformer Network [[PDF]](https://arxiv.org/pdf/2111.08817.pdf)
 
 > [Lin, T. H.](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+T), & [Gao, C.](https://arxiv.org/search/cs?searchtype=author&query=Gao%2C+C) (2021, December). Session-aware Item-combination Recommendation with Transformer Network. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 5708-5713). IEEE.
@@ -67,9 +67,18 @@
 
 > Chen, M., Beutel, A., Covington, P., Jain, S., Belletti, F., & Chi, E. H. (2019, January). Top-k off-policy correction for a REINFORCE recommender system. In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (pp. 456-464).
 
-# Libros
+# Datasets
 
-[L1]  Deep Learning on Graphs [[PDF]](https://web.njit.edu/~ym329/dlg_book/)
+
+# Ambientes de Simulación
+
+# RL para publicidad en línea
+
+# Libros
+[L1] Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press. [[PDF]](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+
+
+[L2]  Deep Learning on Graphs [[PDF]](https://web.njit.edu/~ym329/dlg_book/)
 
 > [Wang, Y.](https://www.cse.msu.edu/~wangy206/), [Jin, W.](http://www.cse.msu.edu/~jinwei2/), [Ma, Y.](http://cse.msu.edu/~mayao4/), & [Tang, J](https://www.cse.msu.edu/~tangjili/). (2021). Deep learning on graphs. Cambridge university press. 
 
