@@ -94,7 +94,7 @@ Goodreads:  meta-data of the books, user-book interactions (users' public shelve
 > Wan, M., & McAuley, J. (2018, September). Item recommendation on monotonic behavior chains. In Proceedings of the 12th ACM conference on recommender systems (pp. 86-94).
 > Wan, M., Misra, R., Nakashole, N., & McAuley, J. (2019). Fine-grained spoiler detection from large-scale review corpora. arXiv preprint arXiv:1905.13416.
 
-Goodreads spoilers [[link]] (https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews)
+Goodreads spoilers [[link]](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews)
 
 > Wan, M., Misra, R., Nakashole, N., & McAuley, J. (2019). Fine-grained spoiler detection from large-scale review corpora. arXiv preprint arXiv:1905.13416.
 
