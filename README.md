@@ -67,6 +67,22 @@
 
 > Chen, M., Beutel, A., Covington, P., Jain, S., Belletti, F., & Chi, E. H. (2019, January). Top-k off-policy correction for a REINFORCE recommender system. In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (pp. 456-464).
 
+[P17] Unified conversational recommendation policy learning via graph-based reinforcement learning [[PDF]](https://arxiv.org/abs/2105.09710)
+
+> Deng, Y., Li, Y., Sun, F., Ding, B., & Lam, W. (2021, July). Unified conversational recommendation policy learning via graph-based reinforcement learning. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1431-1441).
+
+[P18] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution [[PDF]](https://arxiv.org/abs/2104.07150)
+
+> Li, C., Wu, Q., & Wang, H. (2021, July). When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1410-1419).
+
+[P19] Cluster-Based Bandits: Fast Cold-Start for Recommender System New Users [[PDF]](https://www.scss.tcd.ie/Doug.Leith/pubs/sigir16.pdf)
+
+> Shams, S., Anderson, D., & Leith, D. (2021, July). Cluster-Based Bandits: Fast Cold-Start for Recommender System New Users. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1613-1616).
+
+[P20]  Comparison-based Conversational Recommender System with Relative Bandit Feedback [[PDF]](https://dl.acm.org/doi/abs/10.1145/3404835.3462920)
+
+> Xie, Z., Yu, T., Zhao, C., & Li, S. (2021, July). Comparison-based Conversational Recommender System with Relative Bandit Feedback. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1400-1409).
+
 # Datasets
 
 ContentWise impressions: an industrial dataset with impressions included [[dataset repo]](https://github.com/ContentWise/contentwise-impressions)
