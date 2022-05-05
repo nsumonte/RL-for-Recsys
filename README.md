@@ -89,6 +89,32 @@ ContentWise impressions: an industrial dataset with impressions included [[datas
 
 >Pérez Maurera, F. B., Ferrari Dacrema, M., Saule, L., Scriminaci, M., & Cremonesi, P. (2020, October). ContentWise impressions: an industrial dataset with impressions included. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (pp. 3093-3100).
 
+Goodreads:  meta-data of the books, user-book interactions (users' public shelves) and users' detailed book reviews.  [[dataset repo]](https://github.com/MengtingWan/goodreads)
+
+> Wan, M., & McAuley, J. (2018, September). Item recommendation on monotonic behavior chains. In Proceedings of the 12th ACM conference on recommender systems (pp. 86-94).
+> Wan, M., Misra, R., Nakashole, N., & McAuley, J. (2019). Fine-grained spoiler detection from large-scale review corpora. arXiv preprint arXiv:1905.13416.
+
+Goodreads spoilers [[link]] (https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews)
+
+> Wan, M., Misra, R., Nakashole, N., & McAuley, J. (2019). Fine-grained spoiler detection from large-scale review corpora. arXiv preprint arXiv:1905.13416.
+
+Amazon Product Reviews (2018) [[dataset repo]](https://nijianmo.github.io/amazon/index.html)
+
+> He, R., & McAuley, J. (2016, April). Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering. In proceedings of the 25th international conference on world wide web (pp. 507-517).
+
+Pinterest Fashion Compatibility [[dataset repo]](https://github.com/kang205/STL-Dataset)
+
+> Kang, W. C., Kim, E., Leskovec, J., Rosenberg, C., & McAuley, J. (2019). Complete the look: Scene-based complementary product recommendation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10532-10541).
+
+Clothing Fit Data [[Modcloth dataset]](http://deepx.ucsd.edu/public/jmcauley/modcloth/modcloth_final_data.json.gz)
+
+> Misra, R., Wan, M., & McAuley, J. (2018, September). Decomposing fit semantics for product size recommendation in metric spaces. In Proceedings of the 12th ACM Conference on Recommender Systems (pp. 422-426).
+
+Product Exchange/Bartering Data [[dataset repo]](http://swapit.github.io)
+
+> Rappaz, J., Vladarean, M. L., McAuley, J., & Catasta, M. (2017, February). Bartering books to beers: a recommender system for exchange platforms. In Proceedings of the Tenth ACM International Conference on Web Search and Data Mining (pp. 505-514).
+> He, R., & McAuley, J. (2016, February). VBPR: visual bayesian personalized ranking from implicit feedback. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 30, No. 1).
+
 # Ambientes de Simulación
 
 # RL para publicidad en línea
