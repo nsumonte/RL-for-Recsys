@@ -120,7 +120,7 @@ Product Exchange/Bartering Data [[dataset repo]](http://swapit.github.io)
 # RL para publicidad en línea
 
 # Libros
-[L1] Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press. [[PDF]](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+[L1] Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press [[PDF]](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
 
 [L2]  Deep Learning on Graphs [[PDF]](https://web.njit.edu/~ym329/dlg_book/)
