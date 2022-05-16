@@ -83,6 +83,14 @@
 
 > Xie, Z., Yu, T., Zhao, C., & Li, S. (2021, July). Comparison-based Conversational Recommender System with Relative Bandit Feedback. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1400-1409).
 
+[P21]  A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions [[PDF]](https://arxiv.org/pdf/2109.03540.pdf)
+
+> Chen, X., Yao, L., McAuley, J., Zhou, G., & Wang, X. (2021). A survey of deep reinforcement learning in recommender systems: A systematic review and future directions. arXiv preprint arXiv:2109.03540.
+
+[P22]  Reinforcement learning based recommender systems: A survey [[PDF]](https://arxiv.org/pdf/2101.06286.pdf)
+
+> Afsar, M. M., Crump, T., & Far, B. (2021). Reinforcement learning based recommender systems: A survey. arXiv preprint arXiv:2101.06286.
+
 # Datasets
 
 ContentWise impressions: an industrial dataset with impressions included [[dataset repo]](https://github.com/ContentWise/contentwise-impressions)
