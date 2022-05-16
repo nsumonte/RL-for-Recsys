@@ -91,6 +91,10 @@
 
 > Afsar, M. M., Crump, T., & Far, B. (2021). Reinforcement learning based recommender systems: A survey. arXiv preprint arXiv:2101.06286.
 
+[P23]  Online Decision Transformer [[PDF]](https://arxiv.org/pdf/2202.05607v1.pdf)
+
+> Zheng, Q., Zhang, A., & Grover, A. (2022). Online Decision Transformer. arXiv preprint arXiv:2202.05607.
+
 # Datasets
 
 ContentWise impressions: an industrial dataset with impressions included [[dataset repo]](https://github.com/ContentWise/contentwise-impressions)
