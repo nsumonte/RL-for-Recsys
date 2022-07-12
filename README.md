@@ -95,6 +95,15 @@
 
 > Zheng, Q., Zhang, A., & Grover, A. (2022). Online Decision Transformer. arXiv preprint arXiv:2202.05607.
 
+
+[P24]  Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective [[PDF]](https://www.researchgate.net/publication/361324222_Rethinking_Reinforcement_Learning_for_Recommendation_A_Prompt_Perspective)
+
+> Xin, X., Pimentel, T., Karatzoglou, A., Ren, P., Christakopoulou, K., & Ren, Z. (2022, July). Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1347-1357).
+
+[P25]  Self-Supervised Reinforcement Learning for Recommender Systems [[PDF]](https://www.researchgate.net/publication/342146225_Self-Supervised_Reinforcement_Learning_for_Recommender_Systems)
+
+> Xin, X., Karatzoglou, A., Arapakis, I., & Jose, J. M. (2020, July). Self-supervised reinforcement learning for recommender systems. In Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval (pp. 931-940).
+
 # Datasets
 
 ContentWise impressions: an industrial dataset with impressions included [[dataset repo]](https://github.com/ContentWise/contentwise-impressions)
