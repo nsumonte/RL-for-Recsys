@@ -3,7 +3,7 @@
 - Lista de papers, codigo, datasets y otros recursos relacionado con el aprendizaje reforzado y los sistemas de recomendación (Algunos incluyen el link para el PDF, código y dataset).
 
 # Artículos
-[P1]  Session-aware Item-combination Recommendation with Transformer Network [[PDF]](https://arxiv.org/pdf/2111.08817.pdf)
+[P1]  Session-aware Item-combination Recommendation with Transformer Network [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671485&casa_token=0QTjpWOkdCcAAAAA:vgaSP7SZEQOGSrBc6rPD2R0vQfT6MEHC_wnDxrcRDYJifTYtzkI7YQX4fIz2js9JxqAwtq2Spg&tag=1)
 
 > [Lin, T. H.](https://arxiv.org/search/cs?searchtype=author&query=Lin%2C+T), & [Gao, C.](https://arxiv.org/search/cs?searchtype=author&query=Gao%2C+C) (2021, December). Session-aware Item-combination Recommendation with Transformer Network. In 2021 IEEE International Conference on Big Data (Big Data) (pp. 5708-5713). IEEE.
 
